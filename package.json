@@ -1,20 +1,23 @@
 {
-  "name": "dieslow-blockchain", 
-  "version": "1.0.0", 
-  "description": "", 
+  "name": "dieslow-blockchain",
+  "version": "1.0.1",
+  "description": "",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "" 
+    "url": ""
   },
-  "keywords": [ 
-    "", 
+  "keywords": [
+    "",
     "",
     ""
   ],
-  "author": "", 
-  "license": "MIT"
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dieslow666": "^1.0.2"
+  }
 }
